@@ -1,11 +1,16 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import Avatar from '../avatar/Avatar.js';
+import AboutMenu from './AboutMenu.js';
+
+
 
 export default class About extends Component {
   render() {
     return (
-      <div>
-        <h1>About</h1>
-      </div>
-    )
+      <>
+       <Avatar page = "about"/>
+       <AboutMenu />
+      </>
+    );
   }
 }
