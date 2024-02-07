@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/background.css";
-import video from "../assets/bg-uni.mp4";
+import video from "../assets/motion.mp4";
 import fallbackImage from "../assets/fallback-image.png";
 
 
