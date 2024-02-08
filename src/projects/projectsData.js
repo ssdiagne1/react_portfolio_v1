@@ -42,7 +42,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/ssdiagne1/GPT4Chatbot",
-    demo: "https://drive.google.com/file/d/1rvUnQGv1COeocO1TXZoB3Oiyl8pNTYeY/view?usp=sharing",
+    demo: "https://drive.google.com/file/d/1BdRAanPkg4ebqHen_7QMhYa51K_1O5GX/view?usp=sharing",
   },
 };
 
