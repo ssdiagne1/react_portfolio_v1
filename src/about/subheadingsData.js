@@ -74,11 +74,9 @@ const subheadingsData = {
                 title: "2022 Java Teacher Assistant",
                 content: (
                     <>
-                        <p>
-                            ⚫ Reviewed lesson material with students individually or in small groups.
+                        <p>⚫ Reviewed lesson material with students individually or in small groups.
                             ⚫ Provided support to help students with special needs learn and grow.
-                            ⚫ Kept Students on-task with proactive behavior modification and positive reinforcement strategies.
-                        </p>
+                            ⚫ Kept Students on-task with proactive behavior modification and positive reinforcement strategies.</p>
                     </>
                 ),
             },
