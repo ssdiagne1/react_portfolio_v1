@@ -62,10 +62,6 @@ const skills = {
       title: "Flask",
       level: 3,
     },
-    {
-      title: "Cloud",
-      level: 3,
-    },
 
   ],  
 };
