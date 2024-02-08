@@ -35,9 +35,8 @@ const subheadingsData = {
                 content: (
                     <>
                         <p>
-                            My Bachelor of Science in Computer Science from the Institute African of Management provided me 
-                            with a strong foundation in programming, software development, and database management. Equipped with a deep understanding
-                             of data structures and algorithms and programming languages.
+                            My Bachelor of Science in Computer Science provided mewith a strong foundation in programming, software development, and database management. 
+                            Equipped with a deep understanding of data structures and algorithms and programming languages.
                         </p>
                     </>
                 ),
