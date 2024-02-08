@@ -28,7 +28,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/sdiagne0/EnhancedOnlineStudentAttendanceSystem/tree/main",
-    demo: "https://netlify.com",
+    demo: "https://drive.google.com/file/d/1JROc9C44OTsbkDltroHzctkt3GXezk9H/view?usp=sharing",
   },
   3: {
     title: "Chatbot GPT",
@@ -41,7 +41,7 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/ssdiagne1/GPT4Chatbot",
     demo: "https://netlify.com",
   },
 };
