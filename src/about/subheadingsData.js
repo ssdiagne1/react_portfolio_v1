@@ -35,7 +35,7 @@ const subheadingsData = {
                 content: (
                     <>
                         <p>
-                            My Bachelor of Science in Computer Science provided mewith a strong foundation in programming, software development, and database management. 
+                            My Bachelor of Science in Computer Science provided me with a strong foundation in programming, software development, and database management. 
                             Equipped with a deep understanding of data structures and algorithms and programming languages.
                         </p>
                     </>
