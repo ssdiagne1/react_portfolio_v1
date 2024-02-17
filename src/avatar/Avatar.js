@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import PropTypes from "prop-types";
-import avatarImage from "../assets/avatar-focus.png";
+import avatarImage from "../assets/playerA.png";
 import "../styles/avatar.css";
 
 const Avatar = ({ page }) => {
